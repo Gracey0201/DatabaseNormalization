@@ -102,11 +102,11 @@ _This query changes the facilities table by dropping the FacilityName column_.
 
 
 ### Uploading Images
-![This is the screenshot of Park_Info table] (/images/Park_Info Table.PNG)
-![This is the screenshot of Parks table] (/images/ParksTable.PNG)
-![This is the screenshot of facilities table] (/images/Facility Altered.PNG)
-![This is the screenshot of Parkfacilites table] (/images/ParkFacilities Table.PNG)
-![This is the screenshot of Facilites table] (/images/Facilities Table.PNG)
+![This is the screenshot of Park_Info table] (images/Park_Info Table.PNG)
+![This is the screenshot of Parks table] (images/ParksTable.PNG)
+![This is the screenshot of facilities table] (images/Facility Altered.PNG)
+![This is the screenshot of Parkfacilites table] (images/ParkFacilities Table.PNG)
+![This is the screenshot of Facilites table] (images/Facilities Table.PNG)
 
 ### Challenges Encountered
 _I encountered some technical complexities, trying to get and write the right query, this is because understanding and implementing spatial concepts may be challenging especially for someone like me who is new to this domain_.
